@@ -1,0 +1,2 @@
+# ZPUIApplication
+介绍利用UIApplication单例来实现一些系统级别的操作。
